@@ -1,0 +1,27 @@
+Index,Location,Phi,W,Longitude,Latitude,Temporal dependence,Spatial dependence,Type of Location
+1,Andechs/Rothenfeld,0.99,0,11.220172,47.968753,high,low,Rural
+2,Ansbach/Residenzstraße,0.76,0.300287478,10.572297,49.304889,high,moderate,Urban traffic
+3,Augsburg/Karlstraße,0.75,0.25177596,10.896221,48.370237,high,low,Urban traffic
+4,Augsburg/Königsplatz,0.57,0.522374569,10.89503,48.36459,moderate,moderate,Urban traffic
+5,Augsburg/LfU,0.75,0.295166691,10.903051,48.326013,high,low,Sub urban
+6,Bamberg/Löwenbrücke,0.59,0.492861243,10.887686,49.89833,moderate,moderate,Urban 
+7,Bayreuth/Hohenzollernring,0.68,0.32355398,11.570088,49.943637,high,moderate,Urban 
+8,Burghausen/Marktler/Straße,0.82,0.235812705,12.829314,48.177175,high,low,Sub urban
+9,Fürth/Theresienstraße,0.45,0.62789604,10.984705,49.47221,moderate,high,Urban traffic
+10,Ingolstadt/Rechbergstraße,0.87,0.12397823,11.428766,48.769444,high,low,Urban traffic
+11,Kelheim/Regensburger/Straße,0.75,0.234880568,11.879245,48.909518,high,low,Urban traffic
+12,Kulmbach/Konrad-Adenauer-Straße,0.72,0.283693551,11.442591,50.103135,high,low,Urban
+13,Landshut/Podewilsstraße,0.74,0.271930312,12.157051,48.539801,high,low,Urban traffic
+14,Lindau(Bodensee)/Friedrichshafener_Str,0.99,0.038009944,9.688869,47.557473,high,low,Urban traffic
+15,München/Johanneskirchen,0.59,0.369308202,11.64804,48.17319,moderate,moderate,Sub urban
+16,München/Landshuter-Allee,0.1,1.165949178,11.536513,48.149606,low,high,Urban traffic
+17,München/Lothstraße,0.52,0.505475725,11.554669,48.154534,moderate,moderate,Urban 
+18,München/Stachus,0.53,0.618313391,11.56481,48.13732,moderate,high,Urban traffic
+19,Neu-Ulm/Gabelsbergerstraße,1,0.015020464,10.008293,48.397079,high,low,Urban 
+20,Passau/Stelzhamerstraße,0.76,0.188710943,13.422039,48.573629,high,low,Urban 
+21,Regensburg/Rathaus ,0.77,0.261226728,12.101557,49.015245,high,low,Urban traffic
+22,Schweinfurt/Obertor,0.58,0.373965417,10.232076,50.048397,moderate,moderate,Urban 
+23,Sulzbach-Rosenberg/Lohe,0.83,0.307023849,11.786341,49.487983,high,moderate,Sub urban
+24,Tiefenbach/Altenschneeberg,1,0,12.548869,49.438464,high,low,Rural
+25,Trostberg/Schwimmbadstraße,0.81,0.228764774,12.538174,48.021657,high,low,Sub urban
+26,Würzburg/Stadtring-Süd,0.81,0.188261908,9.947654,49.790526,high,low,Urban traffic
